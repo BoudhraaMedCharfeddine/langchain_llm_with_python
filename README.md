@@ -1,1 +1,2 @@
 # langchain_llm_with_python
+Experimenting with large language models (LLMs) in Python using various AI providers such as OpenAI and Mistral, through both direct API calls and the Hugging Face interface.
